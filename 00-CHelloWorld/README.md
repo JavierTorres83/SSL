@@ -1,0 +1,3 @@
+- A. **Compilador Seleccionado:** GCC (GNU Compiler Collection)
+- B. **Version de Compilador:** GCC 13
+- C. **Version de C:** C23 (también conocido como C2x)
